@@ -638,7 +638,7 @@ st.write("Os valores das seções dos eletrodutos estão em conformidade com a t
 st.image("https://www.mundodaeletrica.com.br/y/1293/conversao-polegada-milimetro-720.jpg",caption="Tabela eletrodutos (Fonte: Mundo da elétrica)",width=400)
 st.write("Os valores na seção transversal dos cabos levam em consideração a área que abrange não apenas a espessura dos próprios cabos, mas também a camada de isolamento que os envolve. Essa abordagem visa proporcionar uma avaliação mais precisa no dimensionamento dos eletrodutos, considerando não apenas o núcleo condutor, mas também a totalidade das dimensões que compõem a seção transversal dos cabos. Os dados dos cabos foram retirados da Fabricante SIL, como mostra a tabela abaixo.")
 
-st.image("https://www.sil.com.br/media/103616/FlexSIL750V.png",caption="Tabela eletrodutos (Fonte: SIL cabos elétricos)",width=400)
+st.image("https://www.sil.com.br/media/103616/FlexSIL750V.png",caption="Tabela eletrodutos (Fonte: SIL cabos elétricos)",width=700)
 
 
 
