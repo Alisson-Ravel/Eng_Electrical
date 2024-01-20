@@ -640,6 +640,9 @@ st.write("Os valores na seção transversal dos cabos levam em consideração a 
 
 st.image("https://www.sil.com.br/media/103616/FlexSIL750V.png",caption="Tabela eletrodutos (Fonte: SIL cabos elétricos)",width=700)
 
+st.write("Para mais informações sobre cabos acesse o catálogo no [link](https://www.sil.com.br/media/76743/CATALOGO%20DE%20PRODUTOS%202019-R2.pdf)")
+
+
 
 
 # ------------- VALIDANDO AS ENTRDAS------------
